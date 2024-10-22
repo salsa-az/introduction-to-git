@@ -1,0 +1,1 @@
+print("nyoba doang wey")
