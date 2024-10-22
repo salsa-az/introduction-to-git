@@ -1,7 +1,5 @@
 # 🐙 Introduction to GitHub: Your Guide to Version Control and Collaboration
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 **Welcome to the world of GitHub!** If you're new here, you're in for a treat. GitHub is not just a tool—it's a community, a learning resource, and a powerful version control platform that helps you manage and share code like a pro. Whether you're a beginner or a seasoned developer, GitHub is here to streamline your workflow.
 
 ## 🎯 What is GitHub?
@@ -48,7 +46,7 @@ You can now bring your repository to your local machine. This allows you to work
 Run the following in your terminal:
 
 ```bash
-git clone "https://github.com/your-username/your-repo.git"
+git clone https://github.com/YusrilHasanuddin/introduction-to-git.git -b main
 ```
 
 ### 5. **Making Changes and Committing** ✍️
