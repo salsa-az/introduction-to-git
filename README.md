@@ -47,9 +47,10 @@ You can now bring your repository to your local machine. This allows you to work
 
 Run the following in your terminal:
 
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
+```bash
+git clone "https://github.com/your-username/your-repo.git"
+```
+
 ### 5. **Making Changes and Committing** ✍️
 Now that your project is set up, let’s make some changes!
 
